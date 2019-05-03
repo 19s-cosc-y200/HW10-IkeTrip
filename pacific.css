@@ -1,0 +1,55 @@
+
+
+body 	{
+		 background-color:#FFFFFF;
+		 color:#666666;
+		font-family: Verdana;
+	}
+
+header	{
+		background-color:#000033;
+		color:#FFFFFF
+	}
+
+h1 	{
+		line-height: 200%;
+		font-family: Georgia;
+	}
+
+h2 	{
+		color:#3399CC;
+		text-style: bold;	
+		font-family: Georgia;
+	}
+
+nav 	{	
+		text-decoration:none;
+		background-color:#90C7E3;
+		word-spacing: 1em;
+    		 text-style: bold;
+	}
+
+p	{
+		color:#000033;
+		text-style: bold;
+	}
+
+ul	{
+		color:#000033;
+		text-style: bold;
+	}
+
+dt	{	
+		color:#000033;
+		text-style: bold;
+	}
+
+.resort	{
+		text-color:#000033;
+		font-size: 1.2em;
+	}
+footer	{
+		font-size:.70em;
+		text-align: center;
+		text-style: Italic;
+	}
